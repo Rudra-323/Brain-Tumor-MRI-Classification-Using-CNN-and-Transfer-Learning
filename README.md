@@ -194,9 +194,6 @@ After fine-tuning VGG16 (deeper head + unfrozen layers) and tuning with Optuna:
 
 ---
 
-## 📄 License
-
-Add a license of your choice (e.g. MIT) — create a `LICENSE` file in the repo root.
 
 ## 🙋 Author
 
