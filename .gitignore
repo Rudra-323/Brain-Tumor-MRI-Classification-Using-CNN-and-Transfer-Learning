@@ -1,0 +1,29 @@
+# ---- Virtual environment ----
+brain_tumor_venv/
+venv/
+env/
+ENV/
+ 
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+*.pyo
+ 
+# ---- Jupyter ----
+.ipynb_checkpoints/
+ 
+# ---- Dataset (large, redistribute separately — see README) ----
+brain-tumor-data/
+data/
+ 
+# ---- Streamlit ----
+.streamlit/secrets.toml
+ 
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+ 
+# ---- Duplicate / experimental model file ----
+# Keep ONE final model. Update these lines to match whichever you're dropping:
+vgg16_brain_mri.h5
+best_brain_tumor_model.keras
