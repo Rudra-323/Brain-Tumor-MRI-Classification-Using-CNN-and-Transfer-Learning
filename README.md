@@ -110,7 +110,7 @@ locally as above.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/brain-tumor-cnn-classification.git
+git clone https://github.com/<Rudra-323>/brain-tumor-cnn-classification.git
 cd brain-tumor-cnn-classification
 
 # 2. Create and activate a virtual environment
@@ -161,6 +161,7 @@ and confidence.
 | Custom CNN v1 | 0.685 |
 | ResNet50 (transfer learning) | 0.621 |
 | Custom CNN v2 | 0.562 |
+| Final Accuracy | **89.5 %** |
 
 After fine-tuning VGG16 (deeper head + unfrozen layers) and tuning with Optuna:
 
@@ -199,4 +200,4 @@ Add a license of your choice (e.g. MIT) — create a `LICENSE` file in the repo 
 
 ## 🙋 Author
 
-*Your name here* — feel free to add contact/LinkedIn/portfolio links.
+*Rudrakanta Mandala* — feel free to contact : linkedin : [https://linkedin.com/in/rudrakanta].
