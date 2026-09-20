@@ -1,0 +1,18 @@
+# ---- Core ----
+numpy>=1.23,<2.0
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+pillow>=9.0
+
+# ---- Deep learning ----
+tensorflow>=2.13,<2.16
+
+# ---- Machine learning utilities ----
+scikit-learn>=1.2
+
+# ---- Hyperparameter tuning (replaces keras-tuner) ----
+optuna>=3.4
+
+# ---- App ----
+streamlit>=1.28
